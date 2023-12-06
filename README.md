@@ -1,5 +1,5 @@
 # ATS_Restaurante
-Proyecto final Taller de Programacion
+Proyecto final de Programacion Orientada a Objetos
 
 
 Login
