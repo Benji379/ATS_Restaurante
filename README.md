@@ -26,6 +26,10 @@ Reservas
 
 Caja
 ![image](https://github.com/Benji379/ATS_Restaurante/assets/108637204/6642a6a2-7b80-4b08-be3c-6bc2defa356f)
+![image](https://github.com/Benji379/ATS_Restaurante/assets/108637204/ba109ab8-4b91-42a4-9db1-a32868e8d072)
+![image](https://github.com/Benji379/ATS_Restaurante/assets/108637204/b0a946be-da85-42d3-9607-a301fa427c15)
+![image](https://github.com/Benji379/ATS_Restaurante/assets/108637204/1b6ca21e-2294-477b-bcd6-b202c2821188)
+
 
 Chat
 ![image](https://github.com/Benji379/ATS_Restaurante/assets/108637204/4fe437d3-8fbe-456d-8dc0-bd857b92e4fb)
