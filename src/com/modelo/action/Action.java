@@ -80,7 +80,7 @@ public class Action {
             }
         }
 
-        return ""; // Retorna una cadena vacía si el índice no es 1 o 2.
+        return ""; // Retorna una cadena vacÃ­a si el Ã­ndice no es 1 o 2.
     }
 
     public static void enviarCorreo(JTable tabla, String nombreArchivo) {
@@ -88,13 +88,13 @@ public class Action {
         Color color = Color.decode("#C4270B");
         ExportarExcel.exportToExcel(tabla, workbook, color);
 
-        String correoRemitente = "improats@gmail.com";
-        String contraseñaRemitente = "esilqzqruexyzpxy";
+        String correoRemitente = "correo@gmail.com";
+        String contraseÃ±aRemitente = "kasjsadkjkads";
         String correoDestinatario = "benjij379@gmail.com";
         String asunto = nombreArchivo;
         String texto = "Reporte de " + nombreArchivo + " del restaurante";
 
-        CorreoUtils.enviarCorreo(workbook, correoRemitente, contraseñaRemitente, correoDestinatario, asunto, texto, nombreArchivo);
+        CorreoUtils.enviarCorreo(workbook, correoRemitente, contraseÃ±aRemitente, correoDestinatario, asunto, texto, nombreArchivo);
     }
 
     public static void descargarTablaXlsx(JTable tabla, String nombreArchivo) {
@@ -146,7 +146,7 @@ public class Action {
     }
 
     public static Date obtenerFechaActual() {
-        // Obtén la fecha actual
+        // ObtÃ©n la fecha actual
         java.util.Date fechaActual = new java.util.Date();
 
         // Convierte la fecha actual a java.sql.Date
@@ -207,7 +207,7 @@ public class Action {
         GlassPanePopup.showPopup(obj);
     }
 
-    // Método para capitalizar un nombre
+    // MÃ©todo para capitalizar un nombre
     public static String capitalizarNombre(String nombre) {
         String[] palabras = nombre.toLowerCase().split("\\s+");
 
